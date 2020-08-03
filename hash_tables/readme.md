@@ -1,0 +1,1 @@
+This program read a file with a huge text, reads all the words one by one, adds all the words into the hashtable. Then the program counts the number of distinct words, the most frequent 10 words, the least frequet 10 words, and prints all words with their occurencies.
